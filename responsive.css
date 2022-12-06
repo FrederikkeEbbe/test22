@@ -17,7 +17,7 @@
 
 body{
   font-family: var(--ff-primary);
-  font-weight: 400;
+  font-weight: 410;
   font-size: 1.3125rem;
   line-height: 2;
 }
@@ -52,13 +52,13 @@ img{
 
 header,
 section {
-  padding: 4rem 0;
+  padding: 5rem 0;
 }
 
 @media (min-width=40rem) {
   header,
   section {
-  padding: 7rem 0;
+  padding: 6rem 0;
   }
 }
 
